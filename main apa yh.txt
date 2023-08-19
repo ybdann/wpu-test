@@ -1,6 +1,7 @@
 valorant
 gta 5
-ml
 csgo
 r6s
 nba
+fifa
+gta 6

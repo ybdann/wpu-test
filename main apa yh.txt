@@ -4,4 +4,5 @@ csgo
 r6s
 nba
 fifa
-gta 6
+basara
+bully

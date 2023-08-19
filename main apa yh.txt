@@ -6,3 +6,4 @@ r6s
 nba
 fifa
 basara
+bully

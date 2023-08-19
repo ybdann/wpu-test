@@ -4,3 +4,5 @@ ml
 csgo
 r6s
 nba
+fifa
+basara
